@@ -3,6 +3,9 @@
 ## Decision Trees
 Decision Trees are versatile Machine Learning algorithms that can perform both classification and regression tasks, and even multioutput tasks.
 
+Iris example: 
+![2021-07-17 21_29_11-Webgraphviz](https://user-images.githubusercontent.com/44503223/126053785-dc0098ee-7767-43fc-8c83-929c7807f668.png)
+
 #### Decision Trees Notebook Content Includes:
 - Estimating Class Probabilities
 - Prevent Overfitting
