@@ -17,6 +17,8 @@ To **avoid overfitting**, we could:
 - max_leaf_nodes (the maximum number of leaf nodes)
 - max_features (the maximum number of features that are evaluated for splitting at each node)
 
+![download](https://user-images.githubusercontent.com/44503223/126869101-2502362d-8934-4eee-b9ac-93a29b66b27e.png)
+
 **Limitation - Instability**
 - Decision Trees are very sensitive to small variations in the training data.
 - Decision Trees love orthogonal decision boundaries (all splits are perpendicular to an axis), which makes them sensitive to training set rotation.
