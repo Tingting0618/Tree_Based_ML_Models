@@ -25,6 +25,12 @@ To **avoid overfitting**, we could:
 
 **Solution** to Decision Trees' Limitation? - Random Forests
 
+## Learn More
+
+Please visit [Tingting Duan's Project Portfolio](https://tingting0618.github.io).
+
+## Reference: 
+
 This repo is my learning notebook following the book:
 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron (O’Reilly).
 Copyright 2019 Kiwisoft S.A.S., 978-1-492-03264-9.
