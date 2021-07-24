@@ -13,6 +13,7 @@ Here we have the 1 root node, 1 internal node, and 3 leaves.
 We make a decision based on the minimum Gini Impurity (i.e., largest separability).
 
 To calculate Gini Impurity, there are 2 steps:
+
 **Step 1**: calculate Gini score for each leaf
 <img width="638" alt="Screen Shot 2021-07-24 at 8 14 09 AM" src="https://user-images.githubusercontent.com/44503223/126869547-85d58b92-a273-4350-a9b7-3e8afc8dd331.png">
 
