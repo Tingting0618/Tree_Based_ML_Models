@@ -29,7 +29,7 @@ To **avoid overfitting**, we could:
 
 Please visit [Tingting Duan's Project Portfolio](https://tingting0618.github.io).
 
-## Reference: 
+## Reference
 
 This repo is my learning notebook following the book:
 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron (O’Reilly).
