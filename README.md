@@ -7,7 +7,16 @@ Iris example:
 
 ![2021-07-17 21_29_11-Webgraphviz](https://user-images.githubusercontent.com/44503223/126053785-dc0098ee-7767-43fc-8c83-929c7807f668.png)
 
-Here we have the 1 root node, 1 internal node, and 3 leaves.
+Here we have the 1 root node, 1 internal node, and 3 leaves. 
+
+#### How to determine which feature should be used on the root node?
+We make a decision based on the minimum Gini Impurity (i.e., largest separability).
+
+To calculate Gini Impurity, there are 2 steps:
+**Step 1**: calculate Gini score for each leaf
+<img width="638" alt="Screen Shot 2021-07-24 at 8 14 09 AM" src="https://user-images.githubusercontent.com/44503223/126869547-85d58b92-a273-4350-a9b7-3e8afc8dd331.png">
+**Step 2**: calculate Gini score for each node, based on a weighted average
+<img width="640" alt="Screen Shot 2021-07-24 at 8 12 48 AM" src="https://user-images.githubusercontent.com/44503223/126869576-224a3678-add8-42f1-b312-c7f62d5f04d5.png">
 
 A Decision Tree can also estimate the **probability** that an instance belongs to a particular class k. 
 
@@ -33,6 +42,6 @@ Please visit [Tingting Duan's Project Portfolio](https://tingting0618.github.io)
 
 ## Reference
 
-This repo is my learning notebook following the book:
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron (O’Reilly).
-Copyright 2019 Kiwisoft S.A.S., 978-1-492-03264-9.
+This repo is my learning journal following:
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron (O’Reilly). Copyright 2019 Kiwisoft S.A.S., 978-1-492-03264-9.
+- StatQuest: Decision Trees https://statquest.org/statquest-decision-trees/
