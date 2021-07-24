@@ -7,7 +7,9 @@ Iris example:
 
 ![2021-07-17 21_29_11-Webgraphviz](https://user-images.githubusercontent.com/44503223/126053785-dc0098ee-7767-43fc-8c83-929c7807f668.png)
 
-A Decision Tree can also estimate the probability that an instance belongs to a particular class k. 
+Here we have the root nodes, internal nodes, and leaves.
+
+A Decision Tree can also estimate the **probability** that an instance belongs to a particular class k. 
 
 To **avoid overfitting**, we could:
 - max_depth: regularize the model and thus reduce the risk of overfitting
