@@ -15,9 +15,11 @@ We make a decision based on the minimum Gini Impurity (i.e., largest separabilit
 To calculate Gini Impurity, there are 2 steps:
 
 **Step 1**: calculate Gini score for each leaf
+
 <img width="638" alt="Screen Shot 2021-07-24 at 8 14 09 AM" src="https://user-images.githubusercontent.com/44503223/126869547-85d58b92-a273-4350-a9b7-3e8afc8dd331.png">
 
 **Step 2**: calculate Gini score for each node, based on a weighted average
+
 <img width="640" alt="Screen Shot 2021-07-24 at 8 12 48 AM" src="https://user-images.githubusercontent.com/44503223/126869576-224a3678-add8-42f1-b312-c7f62d5f04d5.png">
 
 A Decision Tree can also estimate the **probability** that an instance belongs to a particular class k. 
