@@ -34,6 +34,10 @@ To **avoid overfitting**, we could:
 
 ![download](https://user-images.githubusercontent.com/44503223/126869101-2502362d-8934-4eee-b9ac-93a29b66b27e.png)
 
+**Other Notes**:
+- 1. The approximate depth of a Decision Tree trained (without restrictions) on a training set with one million instances would be around 20. log_2(10^6) ≈ 20
+- 2. Presorting the training set speeds up training only if the dataset is smaller than a few thousand instances.
+
 **Limitation - Instability**
 - Decision Trees are very sensitive to small variations in the training data.
 - Decision Trees love orthogonal decision boundaries (all splits are perpendicular to an axis), which makes them sensitive to training set rotation.
