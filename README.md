@@ -7,7 +7,7 @@ Iris example:
 
 ![2021-07-17 21_29_11-Webgraphviz](https://user-images.githubusercontent.com/44503223/126053785-dc0098ee-7767-43fc-8c83-929c7807f668.png)
 
-Here we have the root nodes, internal nodes, and leaves.
+Here we have the 1 root node, 1 internal node, and 3 leaves.
 
 A Decision Tree can also estimate the **probability** that an instance belongs to a particular class k. 
 
