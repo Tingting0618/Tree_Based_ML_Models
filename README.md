@@ -46,7 +46,7 @@ To **avoid overfitting**, we could:
 
 ## Learn More
 
-Please visit [Tingting Duan's Project Portfolio](https://tingting0618.github.io).
+Please visit [Tingting Duan's Project Portfolio](https://tingting0618.github.io) to check out more contents!
 
 ## Reference
 
