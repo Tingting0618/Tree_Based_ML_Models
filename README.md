@@ -53,7 +53,7 @@ To **avoid overfitting**, we could:
 
 ## Learn More
 
-Please visit [Tingting Duan's Project Portfolio](https://tingting0618.github.io) to check out more contents!
+For more information, please check out the [Project Portfolio](https://tingting0618.github.io).
 
 ## Reference
 
