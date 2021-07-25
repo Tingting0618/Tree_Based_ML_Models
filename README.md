@@ -42,7 +42,7 @@ To **avoid overfitting**, we could:
 - Decision Trees are very sensitive to small variations in the training data.
 - Decision Trees love orthogonal decision boundaries (all splits are perpendicular to an axis), which makes them sensitive to training set rotation.
 
-**Solution** to Decision Trees' Limitation? - Random Forests
+**Solution** to Decision Trees' Limitation? - [Random Forests](https://github.com/Tingting0618/Ensemble_Learning)
 
 ## Learn More
 
