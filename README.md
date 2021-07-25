@@ -44,6 +44,13 @@ To **avoid overfitting**, we could:
 
 **Solution** to Decision Trees' Limitation? - [Random Forests](https://github.com/Tingting0618/Ensemble_Learning)
 
+## 2. [Random Forests](https://github.com/Tingting0618/Ensemble_Learning)
+
+- Train a group of Decision Tree classifiers, each on a different random subset of the training set.
+- Instead of searching for the very best feature when splitting a node, it searches for the best feature among a random subset of features.
+- Obtain the predictions of all the individual trees, then predict the class that gets the most votes.
+
+
 ## Learn More
 
 Please visit [Tingting Duan's Project Portfolio](https://tingting0618.github.io) to check out more contents!
